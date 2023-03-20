@@ -2,7 +2,7 @@
 I am a Java Software Engineer with experience in designing and developing robust, scalable, and high-performance software applications. Proven track record
 of successfully delivering projects on-time and on-budget, while collaborating with cross-functional teams. Possess excellent problem-solving skills, with the ability to quickly analyze complex issues and provide effective solutions. Skilled in Java, Spring Framework, Hibernate, and RESTful web services and working with SQL and NoSQL databases. Committed to staying up-to-date with emerging trends and technologies in software development. A self-motivated team player with strong communication and interpersonal skills.
 
-**Skills**: Java, J2EE, Spring Framework, Spring Boot, Spring MVC, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Security, Spring Cloud Netflix, JavaScript, Hibernate, Thymeleaf, JSP, Servlet, JDBC, SQL, NoSQL, , MongoDB, Oracle, MySQL, Tomcat, Log4j, Swagger Api Doc, JQuery, jUnit, Microservice, RESTful APIs, Git, Jenkins, Docker, Maven, CI/CD pipelines
+**Skills**: :coffee: Java, J2EE, Spring Framework, Spring Boot, Spring MVC, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Security, Spring Cloud Netflix, JavaScript, Hibernate, Thymeleaf, JSP, Servlet, JDBC, SQL, NoSQL, , MongoDB, Oracle, MySQL, Tomcat, Log4j, Swagger Api Doc, JQuery, jUnit, Microservice, RESTful APIs, Git, Jenkins, Docker, Maven, CI/CD pipelines
 
 📫 How to reach me: email: great.adgupta@gmail.com
 <!--
