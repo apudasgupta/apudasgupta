@@ -4,7 +4,7 @@ of successfully delivering projects on-time and on-budget, while collaborating w
 
 :bulb: **Skills**: :coffee: Java, J2EE, :star: Spring Framework, Spring Boot, Spring MVC, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Security, Spring Cloud Netflix, JavaScript, Hibernate, Thymeleaf, JSP, Servlet, JDBC, :cd: SQL, NoSQL, , MongoDB, Oracle, MySQL, Tomcat, Log4j, Swagger Api Doc, JQuery, jUnit, Microservice, RESTful APIs, :card_file_box: Git, Jenkins, Docker, Maven, CI/CD pipelines
 
-📫 How to reach me: email: great.adgupta@gmail.com
+📫 How to reach me: email: sayhellotogupta@gmail.com
 <!--
 **apudasgupta/apudasgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
